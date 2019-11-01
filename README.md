@@ -1,5 +1,5 @@
 # CARAFE
-An official implementation of [CARAFE: Content-Aware ReAssembly of FEatures](https://arxiv.org/abs/1905.02188)
+An unofficial implementation of [CARAFE: Content-Aware ReAssembly of FEatures](https://arxiv.org/abs/1905.02188)
 
 ## Usage
 
